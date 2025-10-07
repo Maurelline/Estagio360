@@ -1,0 +1,22 @@
+server:
+  port: 8080
+
+spring:
+  application:
+    name: ProjetoBEE
+
+  datasource:
+    url: jdbc:postgresql://localhost:5432/projetobee
+    username: seu_usuario
+    password: sua_senha
+    driver-class-name: org.postgresql.Driver
+
+  jpa:
+    hibernate:
+      ddl-auto: create-drop
+    show-sql: true
+    database-platform: org.hibernate.dialect.PostgreSQLDialect
+
+springdoc:
+  swagger-ui:
+    doc-expansion: none
