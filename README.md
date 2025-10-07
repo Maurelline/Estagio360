@@ -49,3 +49,4 @@ Os testes unitários do **Estágio360** seguem as seguintes diretrizes:
 
 ---
 
+<img width="1913" height="549" alt="image" src="https://github.com/user-attachments/assets/8bbbbf6b-3e17-48c4-9cac-86fd0c975555" />
